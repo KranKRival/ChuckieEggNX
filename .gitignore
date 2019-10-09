@@ -1,0 +1,11 @@
+*.nro
+*.nacp
+*.elf
+*.tar.gz
+*.zip
+*.rpx
+
+switch_build
+wiiu_build
+build
+Release
